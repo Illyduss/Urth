@@ -11,7 +11,7 @@ r is running over my command prompt and so I believe I'll have to introduce thre
 but since I am new to coding I have to do some reading. If anyone has some advice on 
 threading or how to get this timer to run in the background then that would be great.
 
-=====================================Basic Concept=========================================
+======================================Basic Concept==========================================
 I'm trying this first in text and then later maybe as a graphical game. What I'm look
 ing to build is a game that draws heavily from real life of the 1300-1400s, mixed with
 some fantasy for fun. Instead of creating just another D&D port, I will be creating my
