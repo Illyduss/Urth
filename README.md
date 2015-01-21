@@ -1,7 +1,7 @@
 # Urth
 Building a MUD(Multi-User Dungeon) in Python
 
-================================Current Events======================================
+===================================Current Events==========================================
 Currently I am working on a time system in the test.py file and trying to figure out
 how to get my Room.py file to print out different sections of the .json depending on
 the counter in my test.py.
@@ -11,7 +11,7 @@ r is running over my command prompt and so I believe I'll have to introduce thre
 but since I am new to coding I have to do some reading. If anyone has some advice on 
 threading or how to get this timer to run in the background then that would be great.
 
-==================================Basic Concept======================================
+=====================================Basic Concept=========================================
 I'm trying this first in text and then later maybe as a graphical game. What I'm look
 ing to build is a game that draws heavily from real life of the 1300-1400s, mixed with
 some fantasy for fun. Instead of creating just another D&D port, I will be creating my
@@ -27,7 +27,7 @@ has no where near the same affect. Lastly characters will have only one life, bu
 death the account will gain a point which can be used during creation to gain a genetic 
 benefit toward the player's next character.
 
-========================================Why===========================================
+===========================================Why=============================================
 Why a game?
 I thought it would be fun to learn coding that way, turns out it is harder than some of
 my other scripts.
