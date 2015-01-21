@@ -1,0 +1,7 @@
+
+{
+	"name": "Courtyard",
+	"description": "You are standing in a large open air courtyard.",
+	"description2": "It is too dark to see.",
+	"neighbors": {"w":2}
+}

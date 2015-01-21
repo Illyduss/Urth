@@ -1,0 +1,7 @@
+
+{
+	"name": "Great Hall",
+	"description": "You are standing in the Great Hall.",
+	"description2": "It is dark.",
+	"neighbors": {"w":2}
+}

@@ -1,0 +1,23 @@
+
+class Room(object):
+	def __init__(self, name, description):
+		self.name = name
+		self.description = description
+		self.paths = {}
+
+	def go(self, direction):
+        	return self.paths.get(direction, None)
+
+	def add_paths(self, paths):
+		self.paths.update(paths)
+
+	def Room1():
+		field = Room('An Open Field', 'You are in a large open field.')
+		assert_equal(Room1.name, 'An Open Field')
+		assert_equal(Room1.connect, {})
+
+	def Room1_paths():
+		east = Room('East', 'A Simple House')
+
+		east.add_paths({'East': east})
+		assert_equal(east.go('east'), east)

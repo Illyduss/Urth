@@ -1,0 +1,5 @@
+import json
+import os
+
+print(os.path.isdir("/home/illyduss/Urth/Locations"))
+print(os.path.exists("/home/illyduss/Urth/Locations/"str(id)+'.json'))
