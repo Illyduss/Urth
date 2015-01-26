@@ -2,6 +2,10 @@
 Building a MUD(Multi-User Dungeon) in Python
 
 ===================================Current Events==========================================
+**Pulled down the main game.py as I was going to upload an updated version with threading, 
+but some more work on it is still needed. So I will continue to play with it until it is just
+right, but I do believe I am one step closer to getting the time in test.py working.
+
 Currently I am working on a time system in the test.py file and trying to figure out
 how to get my Room.py file to print out different sections of the .json depending on
 the counter in my test.py.
